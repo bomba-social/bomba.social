@@ -1,1 +1,1 @@
-<img src="NINTCHDBPICT000460506679.jpg"/>
+<img src="/images/NINTCHDBPICT000460506679.jpg"/>
