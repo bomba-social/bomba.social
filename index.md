@@ -1,1 +1,1 @@
-BOMBA
+<img src="NINTCHDBPICT000460506679.jpg"/>
